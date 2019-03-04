@@ -85,7 +85,7 @@ cio.track(1, {
 
 #### Options
 
-* **id**: String (requiredl)
+* **id**: String (required)
 * **data**: Object (required)
   * _name_ is a required key on the Object
   * _data_ is an optional key for additional data sent over with the event
